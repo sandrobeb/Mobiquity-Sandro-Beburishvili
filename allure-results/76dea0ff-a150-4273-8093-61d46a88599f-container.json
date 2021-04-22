@@ -1,0 +1,1 @@
+{"uuid":"76dea0ff-a150-4273-8093-61d46a88599f","name":"RESTUsingMaven","children":["f5b2a384-2704-470a-8f54-1210d9eff0e6"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1619037178358,"stop":1619037178358}],"afters":[],"links":[],"start":1619037178356,"stop":1619037180587}
